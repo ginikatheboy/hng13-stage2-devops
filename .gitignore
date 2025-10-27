@@ -1,0 +1,12 @@
+#Ignore temporary files
+*.log
+*.tmp
+*.swp
+
+#Ignore node modules if any
+node_modules/
+
+#Ignore docker build artifacts
+*.pid
+*.sock
+.env
