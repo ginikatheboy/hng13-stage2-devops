@@ -133,8 +133,5 @@ docker stop <container_id>
 # Blank response on /version
 # Ensure your backend listens on port 3000 internally and the proxy is configured correctly.
 
-# 🧾 License
-# This project is for educational purposes under the Backend.im Stage 2 DevOps Challenge.
-
-Blank response on /version
-Ensure your backend listens on port 3000 internally and the proxy is configured correctly.
+ 🧾 License
+This project is for educational purposes under the Backend.im Stage 2 DevOps Challenge.
